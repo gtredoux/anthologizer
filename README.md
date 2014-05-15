@@ -21,5 +21,5 @@ The Android client also supports playing locally held music files on the mobile 
 
 Setup
 
-You will need a database on the server and IIS.  I use SQLEXPRESS and it works fine.  Your webservice will need permission to write to the database, so you can set that up any way you want, say by creting a special user for the purpose and running the webservice as that user, then giving the account permission to write to the database.
+You will need a database on the server and IIS.  I use SQLEXPRESS and it works fine.  Your webservice will need permission to write to the database, so you can set that up any way you want, say by creating a special user for the purpose and running the webservice as that user, then giving the account permission to write to the database.
 
