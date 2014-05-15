@@ -21,7 +21,7 @@ The Android client also supports playing locally held music files on the mobile 
 
 Setup
 
-You will need a database on the server and IIS.  I use SQLEXPRESS and it works fine.  Your webservice will need permission to write to the database, so you can set that up any way you want, say by creating a special user for the purpose and running the webservice as that user, then giving the account permission to write to the database.
+You will need a database on the server and IIS.  I use SQLEXPRESS and it works fine.  Your webservice will need permission to write to the database, so you can set that up any way you want, say by creating a special user for the purpose and running the webservice as that user, then giving the account permission to write to the database.  The service also needs to eb able to write to the Anthologies folder in your music collection, since it copies files back and forth there, so give it that permission.
 
 The webservice has a web.config file with important settings determining where your music collection lives.  It is best to place your Anthologies folder under the root of that collection.  In the future this might be more flexible but right now you can't really have it anywhere else.  My own collection is organized like so
 
@@ -31,6 +31,9 @@ k:\mp3\Blues
 k:\mp3\Jazz
 
 etc.
+
+You will also need to create a virtual directory in IIS to serve the music from when the music is played by a player.  The webservice simply forms URLs pointing at the virtual directory, for which there is a config line in web.config.  I use say "Music" as a virtual directory for K:\mp3
+
 
 
 
