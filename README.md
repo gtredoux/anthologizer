@@ -13,7 +13,7 @@ My general collection is organized tolerably well by folder.  The accuracy of th
 
 Architecture
 
-There is a server-side webservice, which lives on the machine that holds your music collection tracks.  You point the webservice at the root of your collection, and it simply follows the folder structure when you navigate it using a client.  When you see the tracks, it uses the tags inside those tracks if they are good, otherwise it uses the filename. 
+There is a server-side webservice, which lives on the machine that holds your music collection tracks.  You point the webservice at the root of your collection, and it simply follows the folder structure when you navigate it using a client.  When you see the tracks, it uses the tags inside those tracks if they are good, otherwise it uses the filename. There is also an Indexer app you use to index your collection in advance, generally you only have to do that once.
 
 There are currently two clients.  A .NET client for Windows use, and an Android client for mobile use.  The Android client is better in most respects, but the .Net client has some advantages of its own.  I use them both.  You need to tell the client which server to connect to, and multiple servers are supported.  
 
