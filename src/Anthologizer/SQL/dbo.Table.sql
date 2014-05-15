@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Id] NVARCHAR(MAX) NOT NULL PRIMARY KEY, 
+    [Name] NVARCHAR(MAX) NULL, 
+    [Path] NVARCHAR(MAX) NULL, 
+    [digest] NVARCHAR(MAX) NULL
+)

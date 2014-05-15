@@ -1,0 +1,6 @@
+C:\dev\Anthologizer\src\MediaData\bin\Release\MediaData.dll.config
+C:\dev\Anthologizer\src\MediaData\bin\Release\MediaData.dll
+C:\dev\Anthologizer\src\MediaData\bin\Release\MediaData.pdb
+C:\dev\Anthologizer\src\MediaData\obj\Release\MediaDB.csprojResolveAssemblyReference.cache
+C:\dev\Anthologizer\src\MediaData\obj\Release\MediaData.dll
+C:\dev\Anthologizer\src\MediaData\obj\Release\MediaData.pdb

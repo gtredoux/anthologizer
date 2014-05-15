@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="183fde3b-b2b4-41aa-ba92-700f0ff26a59" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:34644/Impl/AnthologizerService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AnthologizerService.wsdl" MetadataType="Wsdl" ID="5c6b470c-7230-4d8c-bd37-b9e39b99bd71" SourceId="1" SourceUrl="http://localhost:34644/Impl/AnthologizerService.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="AnthologizerService.xsd" MetadataType="Schema" ID="e098c43f-c83b-474c-b0d0-801007c700da" SourceId="1" SourceUrl="http://localhost:34644/Impl/AnthologizerService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AnthologizerService1.xsd" MetadataType="Schema" ID="9d51897e-866b-43e9-b9c5-eb9fd2b9112e" SourceId="1" SourceUrl="http://localhost:34644/Impl/AnthologizerService.svc?xsd=xsd3" />
+    <MetadataFile FileName="AnthologizerService.disco" MetadataType="Disco" ID="e993901a-b93e-43fe-a801-45278487eaba" SourceId="1" SourceUrl="http://localhost:34644/Impl/AnthologizerService.svc?disco" />
+    <MetadataFile FileName="AnthologizerService2.xsd" MetadataType="Schema" ID="277be997-07f0-4299-aa65-3688d10cdceb" SourceId="1" SourceUrl="http://localhost:34644/Impl/AnthologizerService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AnthologizerService1.wsdl" MetadataType="Wsdl" ID="c0861916-6ec8-45cc-afc7-e0240ee46be4" SourceId="1" SourceUrl="http://localhost:34644/Impl/AnthologizerService.svc?wsdl" />
+    <MetadataFile FileName="AnthologizerService3.xsd" MetadataType="Schema" ID="7bb08ce6-92d8-47f5-8194-0c640d070e71" SourceId="1" SourceUrl="http://localhost:34644/Impl/AnthologizerService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

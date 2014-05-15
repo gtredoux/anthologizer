@@ -1,0 +1,4 @@
+C:\dev\Anthologizer\bin\Debug\Media.dll
+C:\dev\Anthologizer\bin\Debug\Media.pdb
+C:\dev\Anthologizer\obj\Debug\Media.dll
+C:\dev\Anthologizer\obj\Debug\Media.pdb

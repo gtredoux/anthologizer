@@ -1,0 +1,13 @@
+C:\dev\Anthologizer\bin\Debug\AnthologizerIndexerGUI.exe.config
+C:\dev\Anthologizer\bin\Debug\AnthologizerIndexerGUI.exe
+C:\dev\Anthologizer\bin\Debug\AnthologizerIndexerGUI.pdb
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\AnthologizerIndexerGUI.csprojResolveAssemblyReference.cache
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\MainWindow.baml
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\MainWindow.g.cs
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\App.g.cs
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\AnthologizerIndexerGUI_MarkupCompile.cache
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\AnthologizerIndexerGUI.g.resources
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\AnthologizerIndexerGUI.Properties.Resources.resources
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\AnthologizerIndexerGUI.csproj.GenerateResource.Cache
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\AnthologizerIndexerGUI.exe
+C:\dev\Anthologizer\src\AnthologizerIndexerGUI\obj\Debug\AnthologizerIndexerGUI.pdb

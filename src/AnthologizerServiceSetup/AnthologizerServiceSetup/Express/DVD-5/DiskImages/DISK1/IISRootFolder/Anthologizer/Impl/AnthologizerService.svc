@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="com.renoster.Anthologizer.Impl.AnthologizerService" CodeBehind="AnthologizerService.svc.cs" %>

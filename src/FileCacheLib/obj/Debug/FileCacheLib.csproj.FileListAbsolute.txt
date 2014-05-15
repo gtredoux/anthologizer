@@ -1,0 +1,7 @@
+C:\dev\Anthologizer\src\FileCacheLib\obj\Debug\FileCacheLib.csprojResolveAssemblyReference.cache
+C:\dev\Anthologizer\src\FileCacheLib\bin\Debug\FileCacheLib.dll
+C:\dev\Anthologizer\src\FileCacheLib\bin\Debug\FileCacheLib.pdb
+C:\dev\Anthologizer\src\FileCacheLib\bin\Debug\LRUCache.dll
+C:\dev\Anthologizer\src\FileCacheLib\bin\Debug\LRUCache.pdb
+C:\dev\Anthologizer\src\FileCacheLib\obj\Debug\FileCacheLib.dll
+C:\dev\Anthologizer\src\FileCacheLib\obj\Debug\FileCacheLib.pdb

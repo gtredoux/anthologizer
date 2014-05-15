@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<!-- Select a Product Configuration -->
+		<InstallShieldProductConfiguration>Express</InstallShieldProductConfiguration>
+		<!-- Select a Visual Studio Configuration / InstallShield Release -->
+		<Configuration>Debug</Configuration>
+		<InstallShieldRelease>$(Configuration)</InstallShieldRelease>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- The InstallShieldProject item selects the project to build -->
+		<InstallShieldProject Include="$(MSBuildProjectDirectory)\$(MSBuildProjectName).isl"/>
+		<!-- The InstallShieldReleaseFlags sets Release Flags -->
+		<!--<InstallShieldReleaseFlags Include=""/>-->
+		<!-- The InstallShieldMergeModulePath specifies what directories are
+		searched for Merge Modules -->
+		<!--<InstallShieldMergeModulePath Include=""/>-->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The ProjectReference items refer to any Visual Studio solutions you want to automatically probe for Project Output Groups.  -->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The TaggedOutputs items allow you to explicitly add extra files to output groups. Each item must include both Name and OutputGroup, as well as TargetPath metadata values. -->
+		<!--<TaggedOutputs Include="C:\My Test Exe.exe">
+			<Name>My Test Project</Name>
+			<OutputGroup>Primary output</OutputGroup>
+			<TargetPath>My Test Exe.exe</TargetPath>
+		</TaggedOutputs> -->
+	</ItemGroup>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2013Limited\InstallShield.targets"/>
+	<ItemGroup>
+		<ProjectReference Include="..\Anthologizer\Anthologizer.csproj">
+			<Name>Anthologizer</Name>
+			<Project>{05BEE01F-77AE-42D5-A98C-3CAFC7869BFE}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\AnthologizerIndexerLib\AnthologizerIndexerLib.csproj">
+			<Name>AnthologizerIndexerLib</Name>
+			<Project>{C864C1E7-AD3C-42C3-90E2-EAA080129375}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\LRUCache\LRUCacheLib.csproj">
+			<Name>LRUCacheLib</Name>
+			<Project>{230EBA33-46BE-4CCE-A98D-C49A99C5DE17}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Media\Media.csproj">
+			<Name>Media</Name>
+			<Project>{B62D8E9F-A943-459E-9402-026E8DE2BE7C}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\MediaData\MediaDB.csproj">
+			<Name>MediaDB</Name>
+			<Project>{99CC83D2-DB85-4FE7-8F43-8BBE1E7B5DE0}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\zPlayerLib\zPlayerLib.csproj">
+			<Name>zPlayerLib</Name>
+			<Project>{7F9DE5E2-9EC2-4E8C-9920-D0AE1AFAAD49}</Project>
+		</ProjectReference>
+	</ItemGroup>
+</Project>

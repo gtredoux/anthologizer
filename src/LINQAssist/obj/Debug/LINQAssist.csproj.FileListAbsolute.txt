@@ -1,0 +1,6 @@
+C:\dev\Anthologizer\src\LINQAssist\bin\Debug\LINQAssist.dll
+C:\dev\Anthologizer\src\LINQAssist\bin\Debug\LINQAssist.pdb
+C:\dev\Anthologizer\bin\Debug\LINQAssist.dll
+C:\dev\Anthologizer\bin\Debug\LINQAssist.pdb
+C:\dev\Anthologizer\src\LINQAssist\obj\Debug\LINQAssist.dll
+C:\dev\Anthologizer\src\LINQAssist\obj\Debug\LINQAssist.pdb

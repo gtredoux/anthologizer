@@ -1,0 +1,7 @@
+C:\dev\Anthologizer\src\RegexTest\obj\Debug\RegexTest.csprojResolveAssemblyReference.cache
+C:\dev\Anthologizer\src\RegexTest\bin\Debug\RegexTest.dll
+C:\dev\Anthologizer\src\RegexTest\bin\Debug\RegexTest.pdb
+C:\dev\Anthologizer\src\RegexTest\bin\Debug\Regex.dll
+C:\dev\Anthologizer\src\RegexTest\bin\Debug\Regex.pdb
+C:\dev\Anthologizer\src\RegexTest\obj\Debug\RegexTest.dll
+C:\dev\Anthologizer\src\RegexTest\obj\Debug\RegexTest.pdb

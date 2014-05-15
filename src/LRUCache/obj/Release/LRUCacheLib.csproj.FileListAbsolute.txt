@@ -1,0 +1,5 @@
+C:\dev\Anthologizer\src\LRUCache\bin\Release\LRUCache.dll
+C:\dev\Anthologizer\src\LRUCache\bin\Release\LRUCache.pdb
+C:\dev\Anthologizer\src\LRUCache\obj\Release\LRUCacheLib.csprojResolveAssemblyReference.cache
+C:\dev\Anthologizer\src\LRUCache\obj\Release\LRUCache.dll
+C:\dev\Anthologizer\src\LRUCache\obj\Release\LRUCache.pdb

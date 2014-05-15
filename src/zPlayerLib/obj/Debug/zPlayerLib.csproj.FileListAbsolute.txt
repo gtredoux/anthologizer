@@ -1,0 +1,7 @@
+C:\dev\Anthologizer\src\zPlayerLib\bin\Debug\zPlayerLib.dll
+C:\dev\Anthologizer\src\zPlayerLib\bin\Debug\zPlayerLib.pdb
+C:\dev\Anthologizer\bin\Debug\zPlayerLib.dll
+C:\dev\Anthologizer\bin\Debug\zPlayerLib.pdb
+C:\dev\Anthologizer\src\zPlayerLib\obj\Debug\zPlayerLib.csprojResolveAssemblyReference.cache
+C:\dev\Anthologizer\src\zPlayerLib\obj\Debug\zPlayerLib.dll
+C:\dev\Anthologizer\src\zPlayerLib\obj\Debug\zPlayerLib.pdb

@@ -1,0 +1,9 @@
+C:\dev\Anthologizer\src\AnthologizerIndexerLib\bin\Release\AnthologizerIndexerLib.dll
+C:\dev\Anthologizer\src\AnthologizerIndexerLib\bin\Release\AnthologizerIndexerLib.pdb
+C:\dev\Anthologizer\src\AnthologizerIndexerLib\bin\Release\Media.dll
+C:\dev\Anthologizer\src\AnthologizerIndexerLib\bin\Release\MediaData.dll
+C:\dev\Anthologizer\src\AnthologizerIndexerLib\bin\Release\MediaData.pdb
+C:\dev\Anthologizer\src\AnthologizerIndexerLib\bin\Release\Media.pdb
+C:\dev\Anthologizer\src\AnthologizerIndexerLib\obj\Release\AnthologizerIndexerLib.csprojResolveAssemblyReference.cache
+C:\dev\Anthologizer\src\AnthologizerIndexerLib\obj\Release\AnthologizerIndexerLib.dll
+C:\dev\Anthologizer\src\AnthologizerIndexerLib\obj\Release\AnthologizerIndexerLib.pdb

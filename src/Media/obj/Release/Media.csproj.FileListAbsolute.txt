@@ -1,0 +1,4 @@
+C:\dev\Anthologizer\src\Media\bin\Release\Media.dll
+C:\dev\Anthologizer\src\Media\bin\Release\Media.pdb
+C:\dev\Anthologizer\src\Media\obj\Release\Media.dll
+C:\dev\Anthologizer\src\Media\obj\Release\Media.pdb

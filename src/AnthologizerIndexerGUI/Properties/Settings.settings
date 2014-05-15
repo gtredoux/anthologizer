@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AnthologizerIndexerGUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="root" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Music</Value>
+    </Setting>
+    <Setting Name="anthologiesDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Music\Anthologies</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

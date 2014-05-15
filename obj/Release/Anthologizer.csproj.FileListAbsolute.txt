@@ -1,0 +1,8 @@
+C:\dev\Anthologizer\src\..bin\Anthologizer.dll.config
+C:\dev\Anthologizer\src\..bin\Anthologizer.dll
+C:\dev\Anthologizer\src\..bin\Anthologizer.pdb
+C:\dev\Anthologizer\obj\Release\Anthologizer.csprojResolveAssemblyReference.cache
+C:\dev\Anthologizer\obj\Release\com.renoster.Anthologizer.Properties.Resources.resources
+C:\dev\Anthologizer\obj\Release\Anthologizer.csproj.GenerateResource.Cache
+C:\dev\Anthologizer\obj\Release\Anthologizer.dll
+C:\dev\Anthologizer\obj\Release\Anthologizer.pdb

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MediaDataClasses">
+  <DataContextMoniker Name="/MediaDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8c1aaf30-03bf-4147-b77f-ce07c0ae2e46" absoluteBounds="0.5, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/MediaDataClassesDataContext/Album" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f395c484-7270-4593-ae68-13b3f4c38833" absoluteBounds="0.515, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6df08e3b-9011-4499-a034-b96450c15c40" absoluteBounds="0.5, 2.625, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/MediaDataClassesDataContext/Anthology" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ecdb413c-432f-4713-9729-3e5569474f25" absoluteBounds="0.515, 3.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7679d0ad-4e0e-4a6a-821f-14fe4cd0c9ad" absoluteBounds="2.875, 3.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/MediaDataClassesDataContext/AnthologyItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="746f1ee0-129d-44d6-b4b9-27f3f85c9138" absoluteBounds="2.89, 3.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ed20bb92-ee2b-456f-879b-c6b6fa31dc64" absoluteBounds="5.25, 0.5, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/MediaDataClassesDataContext/AnthologySection" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6cdb899-b42e-4a78-b2ab-dbfcdf40409e" absoluteBounds="5.265, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f905d2fa-2397-4464-bc9d-1ec5e153aed2" absoluteBounds="0.75, 6.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/MediaDataClassesDataContext/Artist" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4655d3c1-9e8f-49ed-a3ac-ab997b131f48" absoluteBounds="0.765, 7.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1445a03e-9e37-4207-8859-34ac388d1fef" absoluteBounds="5.25, 1.875, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/MediaDataClassesDataContext/Genre" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6a4ae93a-fc33-42ed-b29e-98e28507028a" absoluteBounds="5.265, 2.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="431caa55-2333-4418-a6fb-102d7952620a" absoluteBounds="3, 0.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/MediaDataClassesDataContext/Item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f05f32d7-7b4a-4dea-8805-fc712cc0bb35" absoluteBounds="3.0149999999999997, 0.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

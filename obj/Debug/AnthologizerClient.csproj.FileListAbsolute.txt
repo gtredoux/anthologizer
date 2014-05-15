@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\bin\Debug\AnthologizerClient.exe.config
+C:\dev\Anthologizer\bin\Debug\AnthologizerClient.exe.config
+C:\dev\Anthologizer\bin\Debug\AnthologizerClient.exe
+C:\dev\Anthologizer\bin\Debug\AnthologizerClient.pdb
+C:\dev\Anthologizer\obj\Debug\AnthologizerClient.csprojResolveAssemblyReference.cache
+C:\dev\Anthologizer\obj\Debug\AnthologizerClient.MainForm.resources
+C:\dev\Anthologizer\obj\Debug\AnthologizerClient.Properties.Resources.resources
+C:\dev\Anthologizer\obj\Debug\AnthologizerClient.csproj.GenerateResource.Cache
+C:\dev\Anthologizer\obj\Debug\AnthologizerClient.exe
+C:\dev\Anthologizer\obj\Debug\AnthologizerClient.pdb
