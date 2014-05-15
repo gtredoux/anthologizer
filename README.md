@@ -18,3 +18,8 @@ There is a server-side webservice, which lives on the machine that holds your mu
 There are currently two clients.  A .NET client for Windows use, and an Android client for mobile use.  The Android client is better in most respects, but the .Net client has some advantages of its own.  I use them both.  You need to tell the client which server to connect to, and multiple servers are supported.  
 
 The Android client also support playing locally held music files and the mobile itself, which shows up as a "server" in the list.  You can download whole albums/anthologies from the server to your mobile in one click.  When you are browsing the server collection, the app is smart enough to know that it shoudl play the local copy of the file, otherwise ti streams it from the server.  It uses the Android media player, so the performance vries when streaming over slow network links.  Perhaps in the future this will be replaced or improved, but it has been good enough so far.
+
+Setup
+
+You will need a database on the server and IIS.  I use SQLEXPRESS and it works fine.  Your webservice will need permission to write to it so you can set that up any way you want, .e. gby creting a special user for the purpose and running the webservice as that user, then giving the account permission to write to the database.
+
